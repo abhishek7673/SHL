@@ -4,3 +4,20 @@ Personality Inventory,Measures behavioral traits and workplace preferences,Perso
 Coding Simulation,Tests programming knowledge and coding skills,Technical,Entry
 Situational Judgement Test,Evaluates decision-making in work scenarios,Situational,Mid
 Leadership Assessment,Identifies leadership traits and strategic thinking,Leadership,Senior
+Assessment Name,Assessment Description,Assessment Type,Job Level
+Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,Entry
+Personality Inventory,Measures behavioral traits and workplace preferences,Personality,Mid
+Coding Simulation,Tests programming knowledge and coding skills,Technical,Entry
+Situational Judgement Test,Evaluates decision-making in work scenarios,Situational,Mid
+Leadership Assessment,Identifies leadership traits and strategic thinking,Leadership,Senior
+Behavioral Assessment,Evaluates candidate fit by assessing job-related behaviors and competencies,Behavioral,Entry
+Virtual Assessment Center,Provides a comprehensive evaluation through digital simulations of workplace scenarios,Assessment Center,Mid
+OPQ Personality Test,Assesses individual's personality traits and how they fit within the workplace environment,Personality,Mid
+Verify G+ Test,Measures general mental ability, including problem-solving and critical reasoning capabilities,Cognitive,Entry
+Inductive Reasoning Test,Assesses ability to identify patterns and logical rules in sequences, aiding in problem-solving skills,Cognitive,Entry
+Numerical Reasoning Test,Evaluates ability to work with numbers, interpret data, and perform calculations,Cognitive,Entry
+Language Skills Assessment,Measures proficiency in various languages to ensure effective communication skills,Language,Entry
+Contact Center Simulation,Simulates real call center scenarios to assess customer service and multitasking abilities,Simulation,Entry
+Business Skills Assessment,Assesses knowledge in essential business areas like management, marketing, and finance,Business,Mid
+Technical Skills Assessment,Evaluates understanding of technical concepts across various IT domains,Technical,Mid
+
