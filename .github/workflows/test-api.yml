@@ -24,7 +24,7 @@
 
       name: Test SHL API
 
-on:
+on: [push]
   workflow_dispatch:  # lets you manually trigger it from Actions tab
 
 jobs:
@@ -41,7 +41,7 @@ jobs:
           python-version: 3.11
 
       - name: Install dependencies
-        run: |
+        run: pip install requests
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
