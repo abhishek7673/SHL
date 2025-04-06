@@ -1,11 +1,11 @@
-Assessment Name,Assessment Description,Assessment Type,Job Level
-Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,Entry
-Personality Inventory,Measures behavioral traits and workplace preferences,Personality,Mid
-Coding Simulation,Tests programming knowledge and coding skills,Technical,Entry
-Situational Judgement Test,Evaluates decision-making in work scenarios,Situational,Mid
-Leadership Assessment,Identifies leadership traits and strategic thinking,Leadership,Senior
-Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,Entry
-Personality Inventory,Measures behavioral traits and workplace preferences,Personality,Mid
-Coding Simulation,Tests programming knowledge and coding skills,Technical,Entry
-
+Assessment Name,Assessment Description,Assessment Type,Job Level,Link
+Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,Entry,https://shl.com/cognitive-test
+Personality Inventory,Measures behavioral traits and workplace preferences,Personality,Mid,https://shl.com/personality-questionnaire
+Coding Simulation,Tests programming knowledge and coding skills,Technical,Entry,https://shl.com/coding-skills
+Situational Judgement Test,Evaluates decision-making in work scenarios,Situational,Mid,https://www.shl.com/products/administrative-assessment
+Leadership Assessment,Identifies leadership traits and strategic thinking,Leadership,Senior,https://shl.com/leadership-evaluation
+Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,Entry,https://shl.com/cognitive-test
+Personality Inventory,Measures behavioral traits and workplace preferences,Personality,Mid,https://shl.com/personality-questionnaire
+Coding Simulation,Tests programming knowledge and coding skills,Technical,Entry,https://shl.com/coding-skills
+Administrative Skills Test, Test Administrative Skills and knowledge, Technical, Mid,https://www.shl.com/products/administrative-assessment
 
