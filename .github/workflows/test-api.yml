@@ -1,1 +1,22 @@
 
+name: Test SHL API
+
+on: [push]
+
+jobs:
+  test-api-endpoint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run API test script
+      run: python test_api.py
