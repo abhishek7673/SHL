@@ -1,51 +1,22 @@
 
-# name: Test SHL API
-
-# on: [push]
-
-# jobs:
-#   test-api-endpoint:
-#     runs-on: ubuntu-latest
-
-#     steps:
-#     - uses: actions/checkout@v3
-
-#     - name: Set up Python
-#       uses: actions/setup-python@v4
-#       with:
-#         python-version: 3.9
-
-#     - name: Install dependencies
-#       run: pip install requests
-
-#     - name: Run API test script
-#       run: python test_api.py
-
-
-      name: Test SHL API
+name: Test SHL API
 
 on: [push]
-  workflow_dispatch:  # lets you manually trigger it from Actions tab
 
 jobs:
-  test-api:
+  test-api-endpoint:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+    - uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.11
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.9
 
-      - name: Install dependencies
-        run: pip install requests
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+    - name: Install dependencies
+      run: pip install requests
 
-      - name: Test API endpoint
-        run: |
-          python test_api.py
-
+    - name: Run API test script
+      run: python test_api.py
