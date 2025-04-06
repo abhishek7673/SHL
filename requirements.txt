@@ -1,8 +1,8 @@
 streamlit
-# fastapi
-# uvicorn
+fastapi
+uvicorn
 pandas
-# sentence-transformers
+sentence-transformers
 scikit-learn
 
 
