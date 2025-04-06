@@ -1,11 +1,40 @@
-Assessment Name,Assessment Description,Assessment Type,Link,Remote Testing,Adaptive Support,Duration,Test Type
-Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,https://shl.com/cognitive-test,Yes,Yes,30 min,Cognitive
-Personality Inventory,Measures behavioral traits and workplace preferences,Personality,https://shl.com/personality-questionnaire,Yes,Yes,25 min,Behavioural
-Coding Simulation,Tests programming knowledge and coding skills,Technical,https://shl.com/coding-skills,Yes,Yes,60 min,Technical
-Situational Judgement Test,Evaluates decision-making in work scenarios,Situational,https://www.shl.com/products/administrative-assessment,Yes,No,30 min,Behavioural
-Leadership Assessment,Identifies leadership traits and strategic thinking,Leadership,https://shl.com/leadership-evaluation,Yes,Yes,60 min,Managerial
-Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,https://shl.com/cognitive-test,Yes,Yes,30 min,Cognitive
-Personality Inventory,Measures behavioral traits and workplace preferences,Personality,https://shl.com/personality-questionnaire,Yes,Yes,25 min,Behavioural
-Coding Simulation,Tests programming knowledge and coding skills,Technical,https://shl.com/coding-skills,Yes,Yes,60 min,Technical
-Administrative Skills Test, Test Administrative Skills and knowledge, Technical,https://www.shl.com/products/administrative-assessment,Yes,No,35 min,Clerical
+Assessment Name,Assessment Description,Link,Remote Testing,Adaptive Support,Duration,Test Type
+Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,https://shl.com/cognitive-test,Yes,Yes,30 min,Cognitive
+Personality Inventory,Measures behavioral traits and workplace preferences,https://shl.com/personality-questionnaire,Yes,Yes,25 min,Behavioural
+Coding Simulation,Tests programming knowledge and coding skills,https://shl.com/coding-skills,Yes,Yes,60 min,Technical
+Situational Judgement Test,Evaluates decision-making in work scenarios,https://www.shl.com/products/administrative-assessment,Yes,No,30 min,Behavioural
+Leadership Assessment,Identifies leadership traits and strategic thinking,https://shl.com/leadership-evaluation,Yes,Yes,60 min,Managerial
+Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,https://shl.com/cognitive-test,Yes,Yes,30 min,Cognitive
+Personality Inventory,Measures behavioral traits and workplace preferences,https://shl.com/personality-questionnaire,Yes,Yes,25 min,Behavioural
+Coding Simulation,Tests programming knowledge and coding skills,https://shl.com/coding-skills,Yes,Yes,60 min,Technical
+Administrative Skills Test, Test Administrative Skills and knowledge,https://www.shl.com/products/administrative-assessment,Yes,No,35 min,Clerical
+Cognitive Ability Test, Assess problem-solving and logical reasoning skills, https://shl.com/cognitive-test,Yes,Yes,30 min,Cognitive 
+Coding Skills Assessment, Assess coding skills in several programming languages,https://shl.com/coding-skills,Yes,No,45 min,Technical	
+Personality Questionnaire, Measures behavioural traits and workplace preferences,https://shl.com/personality-questionnaire,Yes,Yes,25 min, Behavioral
+Leadership Evaluation, Identifies leadership traits and strategic thinking,https://shl.com/leadership-evaluation,Yes,Yes,60 min,Managerial
+Mechanical Comprehension Test, Assess mechanical knowledge about mechanics,https://www.shl.com/products/mechanical-comprehension/,Yes,No,30 min, Cognitive
+Workplace Safety Assessment, Assess knowledge of presence of mind,https://www.shl.com/products/workplace-safety/,Yes,No,20 min,Behavioral
+Customer Service Simulation, Assess CRM knowledge customer care,https://www.shl.com/products/customer-service-simulation/,Yes,Yes,35 min,Simulation
+Managerial Judgment Indicator, Measures critical thinking and decision making ability,https://www.shl.com/products/managerial-judgement-indicator/,Yes,Yes,40 min,Managerial
+Motivation Questionnaire, Assess self belief and todo power,https://www.shl.com/products/motivation-questionnaire/,Yes,Yes,30 min,Behavioral	
+Occupational Personality Questionnaire (OPQ), Measure ethics of employability,https://www.shl.com/products/opq/,Yes,Yes,25 min,Behavioral
+Graduate Talent Assessment, Measure basic knowledge of graduation,https://www.shl.com/products/graduate-talent/,Yes,Yes,40 min,Early Career
+SHL Coding Simulations, Assess coding and problem solving ability and critical thinking ability,https://www.shl.com/products/coding-simulations/,Yes,Yes,60 min,Technical
+Call Center Simulation, Assess communication skills and handling things with calm and compose,https://www.shl.com/products/call-center-simulation/,Yes,No,35 min,Simulation
+Emotional Intelligence Assessment, Checks emotion intelligence and how to handle pressure situation,https://www.shl.com/products/emotional-intelligence/,Yes,Yes,30 min,Behavioral
+Critical Thinking Test, Assess critical thinking ability to solve problem,https://www.shl.com/products/critical-reasoning/,Yes,Yes,30 min,Cognitive	
+SHL Legal Reasoning Assessment, Assess Legal Knowledge of corporate laws,https://www.shl.com/products/legal-reasoning/,Yes,Yes,40 min,Professional
+Language Proficiency Test – English, Checks proficiency in English,https://www.shl.com/products/language-proficiency/,Yes,No,25 min,Language
+Data Interpretation Assessment, Check creative skills and extracting information ability,https://www.shl.com/products/data-interpretation/,Yes,Yes,30 min,Cognitive
+Administrative Skills Test, Checks office knowledge skills,https://www.shl.com/products/administrative-assessment/,Yes,No,35 min,Clerical
+Remote Work Readiness Assessment, Check knowledge of how remote work should be perform,https://www.shl.com/products/remote-work-assessment/,Yes,Yes,25 min,Behavioral
+Project Management Simulation, Checks knowledge of how to handle team,https://www.shl.com/products/project-management-simulation/,Yes,Yes,60 min,Simulation
+Retail Skills Assessment, Check knowledge of retail business,https://www.shl.com/products/retail-assessment/,Yes,No,30 min,Sales
+Cybersecurity Awareness Test, Assess knowledge of cyber security,https://www.shl.com/products/cybersecurity-assessment/,Yes,Yes,20 min,Technical
+Finance and Accounting Skills Assessment, Check knowledge of Finance and accounting,https://www.shl.com/products/finance-assessment/,Yes,Yes,45 min,Finance
+Numerical Reasoning Test, Check ability to solve numerical problem,https://www.shl.com/products/numerical-reasoning/,Yes,Yes,20 min,Cognitive	
+Verbal Reasoning Test, Check English verbal knowledge,https://www.shl.com/products/verbal-reasoning/,Yes,Yes,20 min,Cognitive
+Situational Judgment Test (SJT), Check on the spot decision taking ability,https://www.shl.com/products/situational-judgement-tests/,Yes,No,30 min,Behavioral
+Technical Skills Assessment – IT Support, Check basic IT knowledge in various computer science subject,https://www.shl.com/products/technical-skills/,Yes,No,40 min,Technical
+Sales Potential Assessment, Check potential challenge face in sales,https://www.shl.com/products/sales-assessment/,Yes,Yes,35 min,Sales	
 
