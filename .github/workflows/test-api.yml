@@ -19,4 +19,4 @@ jobs:
       run: pip install requests
 
     - name: Run API test script
-      run: python api.py
+      run: python test_api.py
