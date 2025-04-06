@@ -1,5 +1,6 @@
-Assessment Name,URL,Remote Support,Adaptive Support,Duration,Type,Tags
-Cognitive Ability Test,https://shl.com/cognitive-test,Yes,Yes,30 min,Cognitive,"cognitive, problem solving, logic"
-Coding Skills Assessment,https://shl.com/coding-skills,Yes,No,45 min,Technical,"coding, programming, python, java"
-Personality Questionnaire,https://shl.com/personality-questionnaire,Yes,Yes,25 min,Behavioral,"behavior, personality, soft skills"
-Leadership Evaluation,https://shl.com/leadership-evaluation,Yes,Yes,60 min,Managerial,"leadership, management, team building"
+Assessment Name,Assessment Description,Assessment Type,Job Level
+Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,Entry
+Personality Inventory,Measures behavioral traits and workplace preferences,Personality,Mid
+Coding Simulation,Tests programming knowledge and coding skills,Technical,Entry
+Situational Judgement Test,Evaluates decision-making in work scenarios,Situational,Mid
+Leadership Assessment,Identifies leadership traits and strategic thinking,Leadership,Senior
