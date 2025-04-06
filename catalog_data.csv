@@ -1,11 +1,11 @@
-Assessment Name,Assessment Description,Assessment Type,Job Level,Link,Remote Testing, Adaptive/IRT Support, Duration & Test Type
-Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,Entry,https://shl.com/cognitive-test, Yes, Yes, 30 min, Cognitive
-Personality Inventory,Measures behavioral traits and workplace preferences,Personality,Mid,https://shl.com/personality-questionnaire, Yes, Yes, 25 min, Behavioural
-Coding Simulation,Tests programming knowledge and coding skills,Technical,Entry,https://shl.com/coding-skills,Yes, Yes, 60 min, Technical
-Situational Judgement Test,Evaluates decision-making in work scenarios,Situational,Mid,https://www.shl.com/products/administrative-assessment,Yes, No, 30 min, Behavioural
-Leadership Assessment,Identifies leadership traits and strategic thinking,Leadership,Senior,https://shl.com/leadership-evaluation,Yes, Yes, 60 min, Managerial
-Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,Entry,https://shl.com/cognitive-test, Yes, Yes, 30 min, Cognitive
-Personality Inventory,Measures behavioral traits and workplace preferences,Personality,Mid,https://shl.com/personality-questionnaire,Yes, Yes, 25 min, Behavioural
-Coding Simulation,Tests programming knowledge and coding skills,Technical,Entry,https://shl.com/coding-skills,Yes, Yes, 60 min, Technical
-Administrative Skills Test, Test Administrative Skills and knowledge, Technical, Mid,https://www.shl.com/products/administrative-assessment,Yes, No, 35 min, Clerical
+Assessment Name,Assessment Description,Assessment Type,Link,Remote Testing, Adaptive/IRT Support, Duration & Test Type
+Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,https://shl.com/cognitive-test, Yes, Yes, 30 min, Cognitive
+Personality Inventory,Measures behavioral traits and workplace preferences,Personality,https://shl.com/personality-questionnaire, Yes, Yes, 25 min, Behavioural
+Coding Simulation,Tests programming knowledge and coding skills,Technical,https://shl.com/coding-skills,Yes, Yes, 60 min, Technical
+Situational Judgement Test,Evaluates decision-making in work scenarios,Situational,https://www.shl.com/products/administrative-assessment,Yes, No, 30 min, Behavioural
+Leadership Assessment,Identifies leadership traits and strategic thinking,Leadership,https://shl.com/leadership-evaluation,Yes, Yes, 60 min, Managerial
+Cognitive Ability Test,Assesses problem-solving and logical reasoning skills,Cognitive,https://shl.com/cognitive-test, Yes, Yes, 30 min, Cognitive
+Personality Inventory,Measures behavioral traits and workplace preferences,Personality,https://shl.com/personality-questionnaire,Yes, Yes, 25 min, Behavioural
+Coding Simulation,Tests programming knowledge and coding skills,Technical,https://shl.com/coding-skills,Yes, Yes, 60 min, Technical
+Administrative Skills Test, Test Administrative Skills and knowledge, Technical,https://www.shl.com/products/administrative-assessment,Yes, No, 35 min, Clerical
 
