@@ -25,7 +25,7 @@ class SHLRecommender:
         self.vectorizer = TfidfVectorizer(stop_words="english")
         self.vectors = self.vectorizer.fit_transform(self.catalog["Assessment Description"])
 
-    def recommend(self, query, top_k=5):
+    def recommend(self, query, top_k=10):
         query_vec = self.vectorizer.transform([query])
         scores = cosine_similarity(query_vec, self.vectors).flatten()
         top_indices = scores.argsort()[::-1][:top_k]
