@@ -29,4 +29,4 @@ class SHLRecommender:
         query_vec = self.vectorizer.transform([query])
         scores = cosine_similarity(query_vec, self.vectors).flatten()
         top_indices = scores.argsort()[::-1][:top_k]
-        return self.catalog.iloc[top_indices][["Assessment Name", "Assessment Description", "Assessment Type", "Link","Remote Testing","Adaptive Support","Duration Test Type"]]
+        return self.catalog.iloc[top_indices][["Assessment Name", "Assessment Description", "Assessment Type", "Link","Remote Testing","Adaptive Support","Duration","Test Type"]]
