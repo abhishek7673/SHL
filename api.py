@@ -19,10 +19,29 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/health")
+def health_check():
+    return {"status": "healthy"}
+
 @app.post("/recommend")
 async def get_recommendations(input: QueryInput):
     results = recommender.recommend(input.query)
-    return results.to_dict(orient="records")
+    # return results.to_dict(orient="records")
+    formatted_results = []
+
+    for _, row in results.iterrows():
+        formatted_results.append({
+            "url": row.get("URL", "https://www.shl.com"),
+            "adaptive_support": row.get("Adaptive Support", "Yes"),
+            "description": row.get("Assessment Description", ""),
+            "duration": int(row.get("Duration", 30)),
+            "remote_support": row.get("Remote Support", "Yes"),
+            "test_type": row.get("Assessment Type", "General").split(", ")
+        })
+
+    return {"recommended_assessments": formatted_results}
+
+
 # async def get_recommendations(request: Request):
 #     body = await request.json()
 #     query = body.get("query")
