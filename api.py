@@ -2,6 +2,7 @@ from fastapi import FastAPI, Request
 from pydantic import BaseModel
 from recommender import SHLRecommender
 from fastapi.middleware.cors import CORSMiddleware
+from recommender import get_recommendations
 import uvicorn
 
 # 👇 Add this model to define expected JSON structure
@@ -19,6 +20,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/")
+def root():
+    return {"message": "SHL Recommendation API is live"}
+    
 @app.get("/health")
 def health_check():
     return {"status": "healthy"}
@@ -28,6 +33,17 @@ async def get_recommendations(input: QueryInput):
     results = recommender.recommend(input.query)
     return results.to_dict(orient="records")
 
+# from fastapi import FastAPI
+# from recommender import get_recommendations
+
+
+
+
+
+# @app.get("/recommend")
+# def recommend(query: str):
+#     results = get_recommendations(query)
+#     return results
 
 # async def get_recommendations(request: Request):
 #     body = await request.json()
