@@ -2,7 +2,7 @@ from fastapi import FastAPI, Request
 from pydantic import BaseModel
 from recommender import SHLRecommender
 from fastapi.middleware.cors import CORSMiddleware
-from recommender import get_recommendations
+# from recommender import get_recommendations
 import uvicorn
 
 # 👇 Add this model to define expected JSON structure
